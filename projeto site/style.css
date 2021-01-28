@@ -4,6 +4,9 @@ body {
 nav{
     text-align: center;
 }   
+p{
+    font-size: 18px Arial;
+}
 
 .bg{
     background-image: url("imagens/FullStack-Image.jpg");
@@ -27,4 +30,7 @@ h1{
 #menu ul li { 
     display: inline;
  }
- 
+ section{
+     background-color: #fc6767;
+     box-shadow: 12px 12px 5px #262525;
+ }
