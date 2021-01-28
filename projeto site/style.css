@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+    margin: 0%;
+    text-align: center;
+}
+.bg{
+    background-image: url("imagens/FullStack-Image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    padding: 12px 12px ;
+}
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline;
+    background-color:#fdfdfd;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul li { 
+    display: inline;
+ }
+ 
