@@ -17,9 +17,7 @@ p{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    width:90%;margin: 0 auto;
-    min-width:600px;
-    max-width:2000px;
+    width: 100%;
 }
 h1{
     padding: 12px 12px ;
