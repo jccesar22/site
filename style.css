@@ -12,28 +12,15 @@ p{
 }
 
 .bg{
-    background-image: url("imagens/FullStack-Image.jpg");
+    background-image: url("imagens/FullStack-Image.jpg"), 
+    url("imagens/FullStack-p.jpg"), 
+    url("imagens/FullStack-m.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     width: 100%;
 }
-.pp{
-    background-image: url("imagens/FullStack-p.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    width: 100%;
-}
-.gg{
-    background-image: url("imagens/FullStack-m.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    width: 100%;
 }
 h1{
     padding: 12px 12px ;
