@@ -1,9 +1,4 @@
-body{
-    width:90%;margin: 0 auto;
-    min-width:600px;
-    max-width:2000px;
-    text-align: center;
-    background-image: url("imagens/FullStack-Image.jpg"),
+body{ background-image: url("imagens/FullStack-Image.jpg"),
     url("imagens/FullStack-m.jpg"),
     url("imagens/FullStack-p.jpg");
     background-repeat: no-repeat;
@@ -11,12 +6,20 @@ body{
     background-position: center;
     background-attachment: fixed;
     width: 100%;
+    width:90%;margin: 0 auto;
+    min-width:600px;
+    max-width:2000px;
+    text-align: center;
 }
 nav{
     text-align: center;
 }   
 p{
     font-size: 18px Arial;
+}
+
+.bg{
+   
 }
 h1{
     padding: 12px 12px ;
@@ -33,4 +36,11 @@ h1{
 #menu ul li { 
     display: inline;
  }
-
+ section{
+     background-color: #fc6767;
+     box-shadow: 12px 12px 5px #262525;
+ }
+.divpara{
+    background: #EDEDED;
+    box-shadow: 5px 5px 5px 5px #333;
+}
