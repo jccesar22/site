@@ -45,3 +45,6 @@ h1{
     background: #EDEDED;
     box-shadow: 5px 5px 5px 5px #333;
 }
+footer{
+    box-shadow: 4px 4px 4px 4px red;
+}
