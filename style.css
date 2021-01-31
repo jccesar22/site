@@ -3,21 +3,20 @@ body{
     min-width:600px;
     max-width:2000px;
     text-align: center;
+    background-image: url("imagens/FullStack-Image.jpg"),
+    url("imagens/FullStack-m.jpg"),
+    url("imagens/FullStack-p.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
 }
 nav{
     text-align: center;
 }   
 p{
     font-size: 18px Arial;
-}
-
-.bg{
-    background-image: url("imagens/FullStack-Image.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    width: 100%;
 }
 h1{
     padding: 12px 12px ;
