@@ -12,15 +12,12 @@ p{
 }
 
 .bg{
-    background-image: url("imagens/FullStack-Image.jpg"), 
-    url("imagens/FullStack-p.jpg"), 
-    url("imagens/FullStack-m.jpg");
+    background-image: url("imagens/FullStack-Image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     width: 100%;
-}
 }
 h1{
     padding: 12px 12px ;
@@ -37,11 +34,4 @@ h1{
 #menu ul li { 
     display: inline;
  }
- section{
-     background-color: #fc6767;
-     box-shadow: 12px 12px 5px #262525;
- }
-.divpara{
-    background: #EDEDED;
-    box-shadow: 5px 5px 5px 5px #333;
-}
+
