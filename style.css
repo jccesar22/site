@@ -48,3 +48,16 @@ h1{
 footer{
     box-shadow: 4px 4px 4px 4px red;
 }
+.fixed{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    }
+    .quadrado{
+        background-color: #EDEDED;
+        width: 200px;
+        height: 300px;
+        display: inline-block;
+       
+
+    }
