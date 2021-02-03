@@ -45,6 +45,7 @@ h1{
 .divpara{
     background: #EDEDED;
     box-shadow: 5px 5px 5px 5px #333;
+    border-radius: 13px;
 }
 footer{
     box-shadow: 4px 4px 4px 4px red;
@@ -54,11 +55,12 @@ footer{
     right: 20px;
     bottom: 20px;
     }
-    .quadrado{
-        background-color: #EDEDED;
-        width: 200px;
-        height: 300px;
-        display: inline-block;
-       
+.quadrado{
+    background-color: #291212;
+    color: #EDEDED;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+          
 
-    }
+ }
