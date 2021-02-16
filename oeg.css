@@ -33,7 +33,7 @@ li{
     text-align: center;
     box-shadow: 4px 4px 4px #206199;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
    
   .logo{
       text-align: center;
