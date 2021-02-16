@@ -33,7 +33,7 @@ li{
     text-align: center;
     box-shadow: 4px 4px 4px #206199;
 }
-@media screen and (min-width: 300px) {
+@media screen and (min-width: 700px) {
    
     .logo{
         text-align: center;
@@ -56,26 +56,27 @@ li{
     }
     
   }
-@media screen and (max-width: 600px) {
-   
-  .logo{
-      text-align: center;
-
-  }
-  .menu{
-      margin-top: 20px;
-      float: none;
-      text-align: center;
-      
-  }
-  li{
-      float: none;
-      margin-bottom: 5px;
-      padding: 10px;
-      
-  }
-  .img{
-      text-align: center;
-  }
   
-}
+@media screen and (max-width: 500px) {
+   
+    .logo{
+        text-align: center;
+  
+    }
+    .menu{
+        margin-top: 20px;
+        float: none;
+        text-align: center;
+        
+    }
+    li{
+        float: none;
+        margin-bottom: 5px;
+        padding: 10px;
+        
+    }
+    .img{
+        text-align: center;
+    }
+    
+  }
