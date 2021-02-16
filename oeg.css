@@ -1,5 +1,6 @@
 .body{
-    margin:10; padding:50;text-align: center;
+    margin:100%; 
+    padding:100%;
 
 }
 .header{
@@ -13,7 +14,7 @@
 .menu{
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 4px;
     float: right;
 }
 li{
@@ -28,11 +29,30 @@ li{
     box-shadow: 3px 3px 3px #206199;
     bottom: 10px;
 }
-.logo{
-    display: inline-block;
-}
 #footer{
     text-align: center;
     box-shadow: 4px 4px 4px #206199;
 }
+@media screen and (max-width: 500px) {
+   
+  .logo{
+      text-align: center;
 
+  }
+  .menu{
+      margin-top: 20px;
+      float: none;
+      text-align: center;
+      
+  }
+  li{
+      float: none;
+      margin-bottom: 5px;
+      padding: 10px;
+      
+  }
+  .img{
+      text-align: center;
+  }
+  
+}
